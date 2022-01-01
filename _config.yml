@@ -1,6 +1,6 @@
-title: Thanos Kalachanis
+title: 
 description: > # this means to ignore newlines until "baseurl:"
-   twitter: <a href="https://twitter.com/tkalahan">@tkalahan</a><br>Website: <a href="https://tkal.github.io/">tkal.github.io</a><br><br><img src="https://avatars.githubusercontent.com/u/1059848?v=4" alt=""><br>
+   twitter: <a href="https://twitter.com/tkalahan">@tkalahan</a><br>Website: <a href="https://tkal.github.io/">tkal.github.io</a><br><br><img style="height:auto;" alt="" width="260" height="260" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/1059848?v=4"><br>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
