@@ -1,6 +1,7 @@
 ---
-layout: single
+layout: page
 classes: wide smallfont
-title:  "About me"
+title:  "About"
 permalink: /about/
 ---
+
