@@ -86,4 +86,4 @@ related: true
 
 # theme
 remote_theme: "mmistakes/minimal-mistakes@4.13.0"
-
+minimal_mistakes_skin: "dark" 
