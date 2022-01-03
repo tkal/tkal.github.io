@@ -12,6 +12,8 @@ repository: tkal/tkal.github.io
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.13.0"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
 
 # Site Author
 author:
@@ -83,7 +85,3 @@ defaults:
       layout: single
       author_profile: true
 related: true
-
-# theme
-remote_theme: "mmistakes/minimal-mistakes@4.13.0"
-minimal_mistakes_skin: "dark" 
