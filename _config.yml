@@ -64,6 +64,10 @@ compress_html:
   ignore:
     envs: development
 
+# Reading Files
+include:
+  - _pages
+
 # Defaults
 defaults:
   # _posts
